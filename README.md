@@ -1,2 +1,1 @@
-# HP-Lang
-HP Lang
+# HP Lang
